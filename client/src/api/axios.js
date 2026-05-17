@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://pathfinder-6u1j.onrender.com/api",
+  baseURL: "https://pathfinder-6u1j.onrender.com",
   withCredentials: true,
 });
 
